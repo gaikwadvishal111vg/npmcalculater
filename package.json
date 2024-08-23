@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^1.7.4"
+  },
+  "name": "npmcalculater",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaikwadvishal111vg"
+  },
+  "keywords": ["add", "sum", "plus","subtract","multiply","divide","sqrt"],
+  "author": "vishalgaikwad",
+  "license": "ISC",
+  "description": "A comprehensive npm package offering 10 essential calculator functions, including addition, subtraction, multiplication, division, exponentiation, square root, logarithm, sine, cosine, and tangent. Perfect for quick and efficient mathematical computations in your projects."
+}
